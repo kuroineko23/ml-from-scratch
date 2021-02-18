@@ -1,1 +1,0 @@
-# 02 Linear Regression in 2 minutes
